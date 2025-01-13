@@ -4,6 +4,9 @@
 <h2> I Previously worked on : </h2>
 <p align="left"> * Online Education Platform:(https://kuraztech.com) </p>
 <p align="left"> * Ecommerce Platform: (https://www.mismaret.com) </p>
+<p align="left"> * Mall Management System : (Private) </p>
+<p align="left"> * WebSite : (https://ambaseltrading.com/) </p>
+<p align="left"> * WebSite : (https://rubairealestate.com/) </p>
 
 - 👯 I’m looking to collaborate on **Any web and systems that needs my back-end development expertise.**
 
